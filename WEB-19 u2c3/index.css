@@ -1,0 +1,56 @@
+/* Fill CSS here */
+h1{
+    margin-top: 30px;
+    text-align: center;
+    font-size: 35px;
+    text-decoration: underline;
+    color: rgb(5, 63, 102);
+}
+
+div{
+display: flex;
+justify-content: space-around;
+}
+
+form{
+    /* border: 10px solid red; */
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    margin-top: 60px;
+    width: 25%;
+    padding: 30px;
+}
+
+
+table{
+    width: 50%;
+    margin: auto;
+    margin-top: 50px;
+    text-align: center;
+}
+
+
+table tr{
+    border: 1px solid #8fb5cf;
+    padding: 10px;
+    text-align: center;
+    background-color: rgb(10, 65, 138);
+}
+
+/* background color #0c67a9 */
+
+table th{
+    padding: 10px; 
+    text-align: left;
+    background-color: #89b1ce;
+    color: black;
+    text-align: center;
+    font-size: 12px;
+}
+
+
+
+
+
+
+
+
